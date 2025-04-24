@@ -1,0 +1,8 @@
+{
+  "..\\parts\\LazyMenu\\index.js -> components/Menu": {
+    "id": "..\\parts\\LazyMenu\\index.js -> components/Menu",
+    "files": [
+      "static/chunks/menu.js"
+    ]
+  }
+}
